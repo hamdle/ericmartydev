@@ -1,3 +1,16 @@
+# ericmarty.co
+
+Instructions
+
+git clone
+composer install
+
+For my linux server
+git config core.fileMode false
+
+php artisan config:clear
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
