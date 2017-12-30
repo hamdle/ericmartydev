@@ -1,14 +1,18 @@
-# ericmarty.co
+# [ericmarty.co] (http://ericmarty.co)
 
 Instructions
 
 git clone
 composer install
+cp .env.example .env
+php artisan key:generate
+php artisan config:cache
 
-For my linux server
+Turn on debug
+/config/app.php look for 'debug'
+
+Fix permissions issue with git on ubuntu server
 git config core.fileMode false
-
-php artisan config:clear
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
