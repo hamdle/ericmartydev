@@ -258,7 +258,7 @@
 						<div class="flex-center position-ref full-height bg-orange">
                             <div class="rhino-2">
 							     <img src="imgs/drupal-code.png" alt="Drupal module programming" />
-                                 <p>Code D7 invoice module and integration with drupal commerce</p>
+                                 <p>Custom built Drupal 7 Invoice module for Drupal Commerce</p>
                             </div>
 						</div>
 					</div>

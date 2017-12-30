@@ -1,25 +1,28 @@
 # My Portfolio Website ericmarty.co
-[ericmarty.co] (http://ericmarty.co)
+http://ericmarty.co
 
-Instructions
+## Instructions
 
-git clone
-
-composer install
-
-cp .env.example .env
-
-php artisan key:generate
-
-php artisan config:cache
+- git clone
+- composer install
+- p .env.example .env
+- php artisan key:generate
+- php artisan config:cache
 
 
-Turn on debug
+Turn on debug.
 /config/app.php look for 'debug'
 
 
-Fix permissions issue with git on ubuntu server
+Fix permissions issue with git on ubuntu server.
 git config core.fileMode false
+
+
+## Editing the site
+
+- resources/views/portfolio.blade.php
+- resources/views/welcome.blade.php
+- routes/web.php
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
