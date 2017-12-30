@@ -1,15 +1,22 @@
-# [ericmarty.co] (http://ericmarty.co)
+# My Portfolio Website ericmarty.co
+[ericmarty.co] (http://ericmarty.co)
 
 Instructions
 
 git clone
+
 composer install
+
 cp .env.example .env
+
 php artisan key:generate
+
 php artisan config:cache
+
 
 Turn on debug
 /config/app.php look for 'debug'
+
 
 Fix permissions issue with git on ubuntu server
 git config core.fileMode false
