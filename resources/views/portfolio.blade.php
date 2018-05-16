@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'champ', 'pld', 'rhino', 'ciaccio', 'moon', 'footer']
+				anchors: ['top', 'champ', 'rhino', 'ciaccio', 'moon', 'footer']
 			});
 		});
 		</script>
@@ -203,7 +203,6 @@
 		                </div>
 		                <div class="links">
 		                    <a href="#champ" data-menuanchor="champ">Champ</a>
-		                    <a href="#pld" data-menuanchor="pld">PLD</a>
 		                    <a href="#rhino" data-menuanchor="rhino">Rhino</a>
 		                    <a href="#ciaccio" data-menuanchor="ciaccio">Ciaccio</a>
                             <a href="#moon" data-menuanchor="moon">Moon</a>
@@ -236,15 +235,6 @@
                           <p>Layout and responsive <b>design</b></p>
                         </div>
 					</div>
-				</div>
-			</div>
-			<div class="section fp-auto-height-responsive pf-pld">
-				<div class="flex-center position-ref full-height">
-                    <div class="pld-1">
-                        <h2><a href="http://portlandlawdesign.com" target="_blank">Portland Law <b>Design</b></a><i>#pdx</i></h2>
-                        <img src="imgs/pld-screen.png" alt="Portland Law Design Home Page" />
-                        <p>Javascript / jQuery | Responsive | SEO</p>
-                    </div>
 				</div>
 			</div>
 			<div class="section fp-auto-height-responsive pf-rhino">
