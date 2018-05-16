@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'champ', 'pld', 'rhino', 'ciaccio', 'footer']
+				anchors: ['top', 'champ', 'pld', 'rhino', 'ciaccio', 'moon', 'footer']
 			});
 		});
 		</script>
