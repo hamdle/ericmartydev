@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('portfolio', function () {
     return view('portfolio'); 
 });
+
+Route::get('gallery', function () {
+    return view('gallery'); 
+});
