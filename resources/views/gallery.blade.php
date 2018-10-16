@@ -24,7 +24,7 @@
             
             img {
                 width: 100%;
-                margin-bottom: 100px;
+                
             }
 
             p {
@@ -32,16 +32,13 @@
                 color: #b8b8b8;
             }
 
-            a {
+            span {
                 display: block;
+                margin-bottom: 100px;
             }
 
             h1 {
                 color: #e1e1e1;
-            }
-
-            strong {
-                color: #8796aa;
             }
 
             .full-height {
@@ -103,9 +100,10 @@
     </head>
     <body>
         <h1>Gallery</h1>
-        <p>by <strong>Eric Marty</strong>. Last updated October 2018.</p>
-        <a href="/imgs/g/photo7.png"><img style="max-width: 800px" src="/imgs/g/photo7.png" /></a>
-        
+        <p>by <strong>Eric Marty</strong> // Last updated October 2018</p>
+        <span><a href="/imgs/g/photo7.png"><img style="max-width: 800px" src="/imgs/g/photo7.png" /></a>
+        <br />concept photography — Asheville, NC</span>
+        <p>//</p>
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
