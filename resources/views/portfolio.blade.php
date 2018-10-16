@@ -286,7 +286,6 @@
 		                </div>
 		                <div class="links">
 		                    <a href="#top" data-menuanchor="top">Portfolio</a>
-		                    <a href="/docs/Eric-Marty-Resume.pdf" target="_blank">Resume</a>
 		                    <a href="https://www.linkedin.com/in/ericpmarty" target="_blank">LinkedIn</a>
                             <a href="https://github.com/hamdle" target="_blank">Github</a>
                 		</div>
