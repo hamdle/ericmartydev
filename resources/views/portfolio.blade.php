@@ -195,7 +195,7 @@
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
 		            <div class="top-right back">
-			        	<a href="/games">Game</a>
+			        	<a href="/games">Indie Games</a>
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
