@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'moon', 'footer']
+				anchors: ['top', 'moon', 'drupal', 'footer']
 			});
 		});
 		</script>
@@ -139,6 +139,14 @@
                 background-color: #0d0d0d;
             }
 
+            .bg-drupal-green {
+                background-color: #7cbc48;
+            }
+
+            .bg-drupal-blue {
+                background-color: #0678be;
+            }
+
             .co-yellow {
                 color: #ffc100;
             }
@@ -215,10 +223,11 @@
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
-		                    Game <b>Dev</b>
+		                    Indie <b>Games</b>
 		                </div>
 		                <div class="links">
-		                    <a href="#moon" data-menuanchor="moon">Moon</a>
+                            <a href="#moon" data-menuanchor="moon">Moon</a>
+                            <a href="#drupal" data-menuanchor="drupal">Drupal</a>
 		                </div>
 		            </div>
 		        </div>
@@ -229,7 +238,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus <b>Moon Reporter</b></a><i>#pdx</i></h2>
                             <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-                            <p style="margin-top: 30px;">C# | Unity | Development & Design</p>
+                            <p style="margin-top: 30px;">Unity | C# | Development & Design | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
                         </div>
 					</div>
 				</div>
@@ -237,7 +246,7 @@
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
     						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;" />
-                            <p>Start Menu | Colors / Fonts / UX/UI Design</p>
+                            <p>Start Menu | Colors / Fonts / UI Design</p>
                         </div>
 					</div>
 				</div>
@@ -246,6 +255,26 @@
                         <div>
 						  <img src="imgs/moon-screen.png" alt="Champ Studio Menu" />
                           <p>Web design | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
+                        </div>
+					</div>
+				</div>
+            </div>
+            
+            <div class="section fp-auto-height-responsive pf-drupal">
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-green">
+						<div>
+                            <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Drupal <b>Jump</b></a><i>#pdx</i></h2>
+                            <img src="imgs/drupal-jump-start-dev.png" alt="Drupal Jump Menu Screen" />
+                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | Coming Soon</p>
+                        </div>
+					</div>
+                </div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
+                        <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
                         </div>
 					</div>
 				</div>
