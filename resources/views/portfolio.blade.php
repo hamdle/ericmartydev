@@ -195,11 +195,11 @@
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
 		            <div class="top-right back">
-			        	<a href="/games">Game Design</a>
+			        	<a href="/games">Game</a>
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
-		                    Port<b>folio</b>
+		                    Web <b>Portfolio</b>
 		                </div>
 		                <div class="links">
 		                    <a href="#champ" data-menuanchor="champ">Champ</a>
@@ -244,7 +244,7 @@
                             <div class="rhino-1">
                                 <h2><a href="https://www.rhinonetworks.com" target="_blank">Rhino <b>Networks</b></a><i>#avl</i></h2>
                                 <img src="imgs/rhino-screen.png" alt="Rhino Networks Home Page" />
-                                <p>Drupal 7 module programming | XML product feed | Logo design</p>
+                                <p>Drupal 7 module programming | Product feed | Logo design</p>
                             </div>
 						</div>
 					</div>
@@ -276,7 +276,7 @@
 		                    Eric <b>Marty</b>
 		                </div>
 		                <div class="links">
-		                    <a href="#top" data-menuanchor="top">Portfolio</a>
+		                    <a href="#top" data-menuanchor="top">Web</a>
 		                    <a href="https://www.linkedin.com/in/ericpmarty" target="_blank">LinkedIn</a>
                             <a href="https://github.com/hamdle" target="_blank">Github</a>
                 		</div>

@@ -211,11 +211,11 @@
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
 		            <div class="top-right back">
-			        	<a href="/portfolio">Web Dev</a>
+			        	<a href="/portfolio">Web</a>
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
-		                    Gam<b>es</b>
+		                    Game <b>Dev</b>
 		                </div>
 		                <div class="links">
 		                    <a href="#moon" data-menuanchor="moon">Moon</a>
@@ -229,7 +229,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus <b>Moon Reporter</b></a><i>#pdx</i></h2>
                             <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-                            <p style="margin-top: 30px;">C# | Unity | Pixel Art | Game Design</p>
+                            <p style="margin-top: 30px;">C# | Unity | Development & Design</p>
                         </div>
 					</div>
 				</div>
@@ -237,7 +237,7 @@
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
     						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;" />
-                            <p>Start Menu | Colors, Fonts, UX/UI Design</p>
+                            <p>Start Menu | Colors / Fonts / UX/UI Design</p>
                         </div>
 					</div>
 				</div>
