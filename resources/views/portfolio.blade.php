@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'champ', 'rhino', 'ciaccio', 'moon', 'footer']
+				anchors: ['top', 'champ', 'rhino', 'ciaccio', 'footer']
 			});
 		});
 		</script>
@@ -205,7 +205,6 @@
 		                    <a href="#champ" data-menuanchor="champ">Champ</a>
 		                    <a href="#rhino" data-menuanchor="rhino">Rhino</a>
 		                    <a href="#ciaccio" data-menuanchor="ciaccio">Ciaccio</a>
-                            <a href="#moon" data-menuanchor="moon">Moon</a>
 		                </div>
 		            </div>
 		        </div>
@@ -268,15 +267,7 @@
                     </div>
 				</div>
 			</div>
-            <div class="section fp-auto-height-responsive pf-moon">
-                <div class="flex-center position-ref full-height">
-                    <div class="moon-1">
-                        <h2><a href="http://moonreporter.com" target="_blank">Moon <b>Reporter</b></a><i>#pdx</i></h2>
-                        <img src="imgs/moon-screen.png" alt="Moon Reporter home page" />
-                        <p>Customized Grav flat-file CMS | My Game made in Unity using C#</p>
-                    </div>
-                </div>
-            </div>
+            
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
 		            <div class="top-right back"></div>

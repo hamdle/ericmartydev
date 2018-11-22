@@ -5,12 +5,25 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Web Developer, Eric Marty</title>
+        <title>Game Designer, Eric Marty</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" type="text/css"> 
 
+        <!-- Javascript -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
+        <script type="text/javascript">
+	        $(document).ready(function() {
+			$('#fullpage').fullpage({
+				anchors: ['top', 'moon', 'footer']
+			});
+		});
+		</script>
+
         <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.min.css" />
         <style>
             html, body {
                 background-color: #fff;
@@ -19,39 +32,15 @@
                 font-weight: 300;
                 height: 100vh;
                 margin: 0;
-                text-align: center;
-            }
-            
-            img {
-                width: 100%;
-                
             }
 
-            p {
-                margin-bottom: 64px;
-                color: #858585;
-            }
-
-            span {
-                display: block;
-                margin-bottom: 100px;
-            }
-
-            h1 {
-                color: #242424;
+            p { 
+                color: #fff;
+                text-align: center; 
             }
 
             a {
-                color: #303030;
-                background-color: #b9eaf8;
-                text-decoration: none;
-                transition: 0.3s;
-            }
-
-            a:hover {
-                color: #303030;
-                background-color: #fff;
-                
+                color: #fff;
             }
 
             .full-height {
@@ -82,7 +71,7 @@
                 font-size: 84px;
             }
 
-            .links > a {
+            .links > a, .back > a {
                 color: #413e49;
                 padding: 10px 25px;
                 font-size: 12px;
@@ -109,24 +98,175 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-            .top-bar {
-                border-bottom: 1px solid #242424;
-                margin-bottom: 60px;
+
+            .pf-moon {
+                background-color: #584cda;
+            }
+
+            .pf-champ {
+            	background-color: #ffc100;
+            }
+
+            .pf-pld {
+            	background-color: #2ba9da;
+            }
+
+            .pf-rhino {
+            	background-color: #6aae01;
+            }
+
+            .pf-ciaccio {
+            	background-color: #333333;
+            }
+
+            .bg-pink {
+            	background-color: #f92aaf;
+            }
+
+            .bg-blue {
+            	background-color: #418FFD;
+            }
+
+            .bg-orange {
+                background-color: #ff6327;
+            }
+
+            .bg-pete-green {
+                background-color: #258b2e;
+            }
+
+            .bg-dark-gray {
+                background-color: #0d0d0d;
+            }
+
+            .co-yellow {
+                color: #ffc100;
+            }
+
+            h2 {
+            	color: #fff;
+            	font-weight: 300;
+            	font-size: 48px;
+                text-align: center;
+                margin-bottom: 0.2em;
+            }
+
+            h2 > a {
+                color: #fff;
+                text-decoration: none;
+            }
+
+            h2 > a:hover {
+                /*border-bottom: 1px solid #fff;*/
+                /*text-decoration: underline;*/
+                color: #eee;
+            }
+            
+            ul {
+                list-style: none;
+            }
+
+            ul > li, p {
+                padding: 10px 25px;
+                font-size: 12px;
+                font-weight: 400;
+                letter-spacing: .1rem;
+                text-decoration: none;
+                text-transform: uppercase; 
+                color: #fff;  
+                margin-top: -10px;   
+            }
+
+            img {
+                max-width: 100%;
+            }
+
+            i {
+                font-size: 20px;
+                font-style: normal;
+                padding-left: 1em;
+                line-height: 48px;
+                color: rgba(255,255,255,0.45);
+            }
+
+            .pf-moon div span {
+                padding: 10px 55px;
+            }
+
+            @media screen and (max-width: 725px) {
+                img {
+                    max-width: 100%;
+                }
+
+                .links > a {
+                    padding: 8px 20px;
+                    letter-spacing: inherit;
+                }
             }
         </style>
     </head>
     <body>
-        <div class="top-bar">
-            <h1>Games</h1>
-        </div>
-        
-        <img style="max-width: 841px;" src="http://moonreporter.com/user/themes/antimatter/images/logo.png" />
-        <h2>Released on November 1, 2018</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-        <p><a href="https://moonreporter.com/release/moonreporter_windows.zip">Download</a> — <a href="https://moonreporter.com" target="_blank">Website</a> — <a href="https://github.com/hamdle/Moon_Journalist/releases/tag/v1.0" target="_blank">GitHub</a></p>
-
-        <p>by <a href="https://ericmarty.co">Eric Marty</a> ‣ Last updated Novermber 2018</p>
+		
+		<div id="fullpage" class="fullpage-wrapper">
+			<div class="section fp-auto-height-responsive">
+				<div class="flex-center position-ref full-height">
+		            <div class="top-right back">
+			        	<a href="/portfolio">Web Dev</a>
+			        </div>
+		            <div class="content">
+		                <div class="title m-b-md">
+		                    Gam<b>es</b>
+		                </div>
+		                <div class="links">
+		                    <a href="#moon" data-menuanchor="moon">Moon</a>
+		                </div>
+		            </div>
+		        </div>
+			</div>
+			<div class="section fp-auto-height-responsive pf-moon">
+				<div class="slide">
+					<div class="flex-center position-ref full-height">
+						<div>
+                            <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus <b>Moon Reporter</b></a><i>#pdx</i></h2>
+                            <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+                            <p style="margin-top: 30px;">C# | Unity | Pixel Art | Game Design</p>
+                        </div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-pete-green">
+                        <div>
+    						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;" />
+                            <p>Start Menu | Colors, Fonts, UX/UI Design</p>
+                        </div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-dark-gray">
+                        <div>
+						  <img src="imgs/moon-screen.png" alt="Champ Studio Menu" />
+                          <p>Web design | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
+                        </div>
+					</div>
+				</div>
+			</div>
+            
+			<div class="section fp-auto-height-responsive">
+				<div class="flex-center position-ref full-height">
+		            <div class="top-right back"></div>
+		            <div class="content">
+		                <div class="title m-b-md">
+		                    Eric <b>Marty</b>
+		                </div>
+		                <div class="links">
+		                    <a href="#top" data-menuanchor="top">Games</a>
+		                    <a href="https://www.linkedin.com/in/ericpmarty" target="_blank">LinkedIn</a>
+                            <a href="https://github.com/hamdle" target="_blank">Github</a>
+                		</div>
+		            </div>
+		        </div>
+			</div>
+		</div>
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
