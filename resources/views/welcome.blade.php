@@ -64,8 +64,17 @@
                 background-color: #418FFD;
             }
 
+            .links > a.upper-menu:first-child {
+                color: inherit;
+                background-color: inherit;
+            }
+
             .links > a:first-child:hover {
                 background-color: #111;
+            }
+
+            .links > a.upper-menu:first-child:hover {
+                background-color: inherit;
             }
 
             .title b {
@@ -80,7 +89,11 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
-                <div class="top-right links"></div>
+                <div class="top-right links">
+                    <a class="upper-menu" href="/"><strong>Home</strong></a>
+                    <a href="/portfolio">Portfolio</a>
+                    <a href="/games">Games</a>
+                </div>
             <div class="content">
                 <div class="title m-b-md">
                     Eric <b>Marty</b>

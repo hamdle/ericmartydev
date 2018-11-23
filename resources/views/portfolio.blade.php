@@ -194,8 +194,10 @@
 		<div id="fullpage" class="fullpage-wrapper">
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
-		            <div class="top-right back">
-			        	<a href="/games">Indie Games</a>
+                    <div class="top-right back">
+                        <a href="/">Home</a>
+                        <a href="/portfolio"><strong>Portfolio</strong></a>
+			        	<a href="/games">Games</a>
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
@@ -270,7 +272,10 @@
             
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
-		            <div class="top-right back"></div>
+                    <div class="top-right back">
+                        <a href="/">Home</a>
+                        <a href="/portfolio"><strong>Portfolio</strong></a>
+			        	<a href="/games">Games</a></div>
 		            <div class="content">
 		                <div class="title m-b-md">
 		                    Eric <b>Marty</b>
