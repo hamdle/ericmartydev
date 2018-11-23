@@ -201,6 +201,19 @@
                 padding: 10px 55px;
             }
 
+            .pf-drupal img, .pf-moon img, iframe {
+                box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+            }
+
+            .pf-moon img.no-shadow {
+                box-shadow: none;
+            }
+
+            iframe {
+                /*border: 8px solid #000;*/
+                border-radius: 3px;
+            }
+
             @media screen and (max-width: 725px) {
                 img {
                     max-width: 100%;
@@ -238,14 +251,14 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus <b>Moon Reporter</b></a><i>#unity</i></h2>
                             <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-                            <p style="margin-top: 30px;">Unity | C# Scripting | Development & Design | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
+                            <p style="margin-top: 30px;">Unity | C# Scripting | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
                         </div>
 					</div>
 				</div>
 				<div class="slide">
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
-    						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;" />
+    						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
                             <p>Start Menu | Colors / Fonts / UI Design</p>
                         </div>
 					</div>
@@ -253,7 +266,7 @@
 				<div class="slide">
 					<div class="flex-center position-ref full-height bg-dark-gray">
                         <div>
-						  <img src="imgs/moon-screen.png" alt="Champ Studio Menu" />
+						  <img class="no-shadow" src="imgs/moon-screen.png" alt="Champ Studio Menu" />
                           <p>Super Fast Website | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
                         </div>
 					</div>
@@ -288,7 +301,7 @@
 		                    Eric <b>Marty</b>
 		                </div>
 		                <div class="links">
-		                    <a href="#top" data-menuanchor="top">Games</a>
+		                    <a href="#top" data-menuanchor="top">Back to Top</a>
 		                    <a href="https://www.linkedin.com/in/ericpmarty" target="_blank">LinkedIn</a>
                             <a href="https://github.com/hamdle" target="_blank">Github</a>
                 		</div>
