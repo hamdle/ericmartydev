@@ -141,6 +141,10 @@
                 color: #ffc100;
             }
 
+            .pf-react a {
+                color: #fff;
+            }
+
             h2 {
             	color: #fff;
             	font-weight: 300;
@@ -191,7 +195,7 @@
                 content: url('../imgs/react-logo.png');
                 position: relative;
                 top: 6px;
-                left: -2px;
+                left: -6px;
             }
 
             .drupal-member {
@@ -238,7 +242,8 @@
 		                    <a href="#champ" data-menuanchor="champ">Champ</a>
 		                    <a href="#rhino" data-menuanchor="rhino">Rhino</a>
                             <a href="#ciaccio" data-menuanchor="ciaccio">Ciaccio</a>
-                            </div>
+                            <a class="show-react-icon" href="#react" data-menuanchor="react">React Demo</a>
+                        </div>
 		            </div>
 		        </div>
 			</div>
@@ -300,8 +305,26 @@
 				</div>
 			</div>
 
+            <div class="section fp-auto-height-responsive pf-react">
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-blue">
+						<div>
+                            <h2><a href="https://reactdemo.ericmarty.co" target="_blank">React <b>Demo</b></a><i>#reactjs</i></h2>
+                            <img src="imgs/react-demo.png" alt="React" />
+                            <p style="margin-top: 15px;">React Course by Wes Bos | My Workthrough on <a href="https://github.com/hamdle/react-catch-of-the-day" target="_blank">GitHub</a> | <a href="https://reactdemo.ericmarty.co" target="_blank">My Demo</a></p>
+                        </div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-blue">
+                        <div>
+    						<img src="imgs/react-demo-code.png" alt="React Demo Code" />
+                            <p style="margin-top: 15px;">Using React Router & Create-react-app</p>
+                        </div>
+					</div>
+                </div>
+			</div>
             
-
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
                     <div class="top-right back">
