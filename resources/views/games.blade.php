@@ -251,17 +251,17 @@
 				<div class="slide">
 					<div class="flex-center position-ref full-height">
 						<div>
-                            <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus <b>Moon Reporter</b></a><i>#unity</i></h2>
-                            <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-                            <p style="margin-top: 30px;">Unity | C# Scripting | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
+                            <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus: <b>Moon Reporter</b></a><i>#unity</i></h2>
+                            <img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
+                            <p>Unity | C# Scripting | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
                         </div>
 					</div>
 				</div>
 				<div class="slide">
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
-    						<img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
-                            <p>Start Menu | Colors / Fonts / UI Design</p>
+                            <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+    						<p style="margin-top: 30px;">Start Menu | Colors / Fonts / UI Design</p>
                         </div>
 					</div>
 				</div>
@@ -280,16 +280,26 @@
 					<div class="flex-center position-ref full-height bg-drupal-green">
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Drupal <b>Jump</b></a><i>#godot</i></h2>
-                            <img src="imgs/drupal-jump-start-dev.png" alt="Drupal Jump Menu Screen" />
-                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | Coming Soon</p>
+                            <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
+                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a> | Coming Soon</p>
                         </div>
 					</div>
                 </div>
                 <div class="slide">
 					<div class="flex-center position-ref full-height bg-drupal-blue">
                         <div>
-                        <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
+                        <span><iframe width="560" height="315" src="https://www.youtube.com/embed/UK71N5tBvw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+                            
+                        
                         <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
+                        </div>
+					</div>
+				</div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <img src="imgs/drupal-jump-char-dev.png" alt="Drupal Jump Menu Screen" />
+                        <p style="margin-top: 30px;">Character select menu | Working concept</p>
                         </div>
 					</div>
 				</div>

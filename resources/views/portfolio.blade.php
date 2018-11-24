@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'champ', 'rhino', 'ciaccio', 'footer']
+				anchors: ['top', 'champ', 'rhino', 'ciaccio', 'react', 'footer']
 			});
 		});
 		</script>
@@ -56,6 +56,12 @@
             .top-right {
                 position: absolute;
                 right: 10px;
+                top: 18px;
+            }
+
+            .top-left {
+                position: absolute;
+                left: 10px;
                 top: 18px;
             }
 
@@ -113,6 +119,10 @@
 
             .pf-moon {
                 background-color: #000;
+            }
+
+            .pf-react {
+                background-color: #418FFD;
             }
 
             .bg-pink {
@@ -177,6 +187,25 @@
                 color: rgba(255,255,255,0.45);
             }
 
+            a.show-react-icon::before {
+                content: url('../imgs/react-logo.png');
+                position: relative;
+                top: 6px;
+                left: -2px;
+            }
+
+            .drupal-member {
+                max-width: 30%;
+                margin-top: -10px;
+                padding-left: 20px;
+            }
+
+            .appstate {
+                max-width: 30%;
+                margin-top: -10px;
+                padding-left: 20px;
+            }
+
             @media screen and (max-width: 725px) {
                 img {
                     max-width: 100%;
@@ -193,12 +222,14 @@
 		
 		<div id="fullpage" class="fullpage-wrapper">
 			<div class="section fp-auto-height-responsive">
-				<div class="flex-center position-ref full-height">
+                <div class="flex-center position-ref full-height">
+                    <div class="top-left back">
+                    </div>
                     <div class="top-right back">
                         <a href="/">Home</a>
                         <a href="/portfolio"><strong>Portfolio</strong></a>
 			        	<a href="/games">Games</a>
-			        </div>
+                    </div>
 		            <div class="content">
 		                <div class="title m-b-md">
 		                    Web <b>Portfolio</b>
@@ -206,8 +237,8 @@
 		                <div class="links">
 		                    <a href="#champ" data-menuanchor="champ">Champ</a>
 		                    <a href="#rhino" data-menuanchor="rhino">Rhino</a>
-		                    <a href="#ciaccio" data-menuanchor="ciaccio">Ciaccio</a>
-		                </div>
+                            <a href="#ciaccio" data-menuanchor="ciaccio">Ciaccio</a>
+                            </div>
 		            </div>
 		        </div>
 			</div>
@@ -240,7 +271,6 @@
 			</div>
 			<div class="section fp-auto-height-responsive pf-rhino">
 				<div class="flex-center position-ref full-height">
-					
 					<div class="slide">
 						<div class="flex-center position-ref full-height">
                             <div class="rhino-1">
@@ -269,7 +299,9 @@
                     </div>
 				</div>
 			</div>
+
             
+
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
                     <div class="top-right back">
