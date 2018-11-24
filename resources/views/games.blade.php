@@ -210,8 +210,12 @@
             }
 
             iframe {
-                /*border: 8px solid #000;*/
+                border: 8px solid #000;
                 border-radius: 3px;
+            }
+
+            .pf-drupal iframe {
+                border: 8px solid #2b2929;
             }
 
             @media screen and (max-width: 725px) {
@@ -253,7 +257,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus: <b>Moon Reporter</b></a><i>#unity</i></h2>
                             <img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
-                            <p>Unity | C# Scripting | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
+                            <p>Unity | C# | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
                         </div>
 					</div>
 				</div>
@@ -261,7 +265,7 @@
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
                             <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-    						<p style="margin-top: 30px;">Start Menu | Colors / Fonts / UI Design</p>
+    						<p style="margin-top: 30px;">Full game playthrough on Youtube</p>
                         </div>
 					</div>
 				</div>
