@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'moon', 'drupal', 'skate', 'footer']
+				anchors: ['top', 'skate', 'moon', 'drupal', 'footer']
 			});
 		});
 		</script>
@@ -249,69 +249,12 @@
 		                    Games & <b>mods</b>
 		                </div>
 		                <div class="links">
+                            <a href="#skate" data-menuanchor="skate">Skater XL</a>
                             <a href="#moon" data-menuanchor="moon">Moon</a>
                             <a href="#drupal" data-menuanchor="drupal">Drupal</a>
-                            <a href="#skate" data-menuanchor="skate">Skatepark</a>
 		                </div>
 		            </div>
 		        </div>
-			</div>
-			<div class="section fp-auto-height-responsive pf-moon">
-				<div class="slide">
-					<div class="flex-center position-ref full-height">
-						<div>
-                            <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus: <b>Moon Reporter</b></a><i>#unity</i></h2>
-                            <img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
-                            <p>Unity | C# | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
-                        </div>
-					</div>
-				</div>
-				<div class="slide">
-					<div class="flex-center position-ref full-height bg-pete-green">
-                        <div>
-                            <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-    						<p style="margin-top: 30px;">Full game playthrough on Youtube</p>
-                        </div>
-					</div>
-				</div>
-				<div class="slide">
-					<div class="flex-center position-ref full-height bg-dark-gray">
-                        <div>
-						  <img class="no-shadow" src="imgs/moon-screen.png" alt="Champ Studio Menu" />
-                          <p>Super Fast Website | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
-                        </div>
-					</div>
-				</div>
-            </div>
-            
-            <div class="section fp-auto-height-responsive pf-drupal">
-				<div class="slide">
-					<div class="flex-center position-ref full-height bg-drupal-green">
-						<div>
-                            <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Drupal <b>Jump</b></a><i>#godot</i></h2>
-                            <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
-                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a> | Coming Soon</p>
-                        </div>
-					</div>
-                </div>
-                <div class="slide">
-					<div class="flex-center position-ref full-height bg-drupal-blue">
-                        <div>
-                        <span><iframe width="560" height="315" src="https://www.youtube.com/embed/UK71N5tBvw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-                            
-                        
-                        <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
-                        </div>
-					</div>
-				</div>
-                <div class="slide">
-					<div class="flex-center position-ref full-height bg-drupal-blue">
-                        <div>
-                        <img src="imgs/drupal-jump-char-dev.png" alt="Drupal Jump Menu Screen" />
-                        <p style="margin-top: 30px;">Character select menu | Working concept</p>
-                        </div>
-					</div>
-				</div>
 			</div>
 
             <div class="section fp-auto-height-responsive pf-skate">
@@ -373,6 +316,66 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="section fp-auto-height-responsive pf-moon">
+				<div class="slide">
+					<div class="flex-center position-ref full-height">
+						<div>
+                            <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus: <b>Moon Reporter</b></a><i>#unity</i></h2>
+                            <img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
+                            <p>Unity | C# | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
+                        </div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-pete-green">
+                        <div>
+                            <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+    						<p style="margin-top: 30px;">Full game playthrough on Youtube</p>
+                        </div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-dark-gray">
+                        <div>
+						  <img class="no-shadow" src="imgs/moon-screen.png" alt="Champ Studio Menu" />
+                          <p>Super Fast Website | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
+                        </div>
+					</div>
+				</div>
+            </div>
+            
+            <div class="section fp-auto-height-responsive pf-drupal">
+				<div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-green">
+						<div>
+                            <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Drupal <b>Jump</b></a><i>#godot</i></h2>
+                            <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
+                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a> | Coming Soon</p>
+                        </div>
+					</div>
+                </div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <span><iframe width="560" height="315" src="https://www.youtube.com/embed/UK71N5tBvw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+                            
+                        
+                        <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
+                        </div>
+					</div>
+				</div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <img src="imgs/drupal-jump-char-dev.png" alt="Drupal Jump Menu Screen" />
+                        <p style="margin-top: 30px;">Character select menu | Working concept</p>
+                        </div>
+					</div>
+				</div>
+			</div>
+
+            
             
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
