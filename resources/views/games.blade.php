@@ -308,6 +308,38 @@
 					</div>
 				</div>
 			</div>
+
+            GOES HERE
+            <div class="section fp-auto-height-responsive pf-skate">
+				<div class="slide">
+					<div class="flex-center position-ref full-height">
+						<div>
+                            <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Skater XL <b>level mod</b></a><i>#blender</i></h2>
+                            <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
+                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a> | Coming Soon</p>
+                        </div>
+					</div>
+                </div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <span><iframe width="560" height="315" src="https://www.youtube.com/embed/UK71N5tBvw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+                            
+                        
+                        <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
+                        </div>
+					</div>
+				</div>
+                <div class="slide">
+					<div class="flex-center position-ref full-height bg-drupal-blue">
+                        <div>
+                        <img src="imgs/drupal-jump-char-dev.png" alt="Drupal Jump Menu Screen" />
+                        <p style="margin-top: 30px;">Character select menu | Working concept</p>
+                        </div>
+					</div>
+				</div>
+			</div>
+            ENDS HERE
             
 			<div class="section fp-auto-height-responsive">
 				<div class="flex-center position-ref full-height">
