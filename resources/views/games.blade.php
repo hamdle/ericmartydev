@@ -147,6 +147,10 @@
                 background-color: #0678be;
             }
 
+            .bg-skater-pink {
+                background-color: #b11973;
+            }
+
             .co-yellow {
                 color: #ffc100;
             }
@@ -312,7 +316,7 @@
 
             <div class="section fp-auto-height-responsive pf-skate">
 				<div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Skater XL <b>level mod</b></a><i>#blender</i></h2>
                             <img src="imgs/skater-xl-title.png" alt="Skater XL Custom Menu" />
@@ -321,7 +325,7 @@
 					</div>
                 </div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                             <img src="imgs/blender-model.png" alt="Custom park built in Blender" />
                             <p style="margin-top: 30px;">Modeled in Blender 2.8</p>
@@ -329,7 +333,7 @@
 					</div>
 				</div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/cycles_render.png" alt="Blender cylces render" />
                         <p style="margin-top: 30px;">Rendered skatepark using Blender cycles renderer</p>
@@ -337,7 +341,7 @@
 					</div>
 				</div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/unity-project.png" alt="Unity skate park project" />
                         <p style="margin-top: 30px;">mod park built in Unity</p>
@@ -345,7 +349,7 @@
 					</div>
 				</div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/screenshot_10.png" alt="Level mod 1" />
                         <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 1</p>
@@ -353,7 +357,7 @@
 					</div>
 				</div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/screenshot_11.png" alt="Level mod 2" />
                         <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 2</p>
@@ -361,7 +365,7 @@
 					</div>
 				</div>
                 <div class="slide">
-					<div class="flex-center position-ref full-height">
+					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/screenshot_12.png" alt="Level mod 3" />
                         <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 3</p>
