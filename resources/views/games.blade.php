@@ -246,7 +246,7 @@
 			        </div>
 		            <div class="content">
 		                <div class="title m-b-md">
-		                    Indie <b>Games</b>
+		                    Games & <b>mods</b>
 		                </div>
 		                <div class="links">
                             <a href="#moon" data-menuanchor="moon">Moon</a>
