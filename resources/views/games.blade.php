@@ -148,7 +148,7 @@
             }
 
             .bg-skater-pink {
-                background-color: #b11973;
+                background-color: rgba(28, 28, 28, 0.96);
             }
 
             .co-yellow {
