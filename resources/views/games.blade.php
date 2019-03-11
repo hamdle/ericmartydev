@@ -17,7 +17,7 @@
         <script type="text/javascript">
 	        $(document).ready(function() {
 			$('#fullpage').fullpage({
-				anchors: ['top', 'moon', 'drupal', 'footer']
+				anchors: ['top', 'moon', 'drupal', 'skate', 'footer']
 			});
 		});
 		</script>
@@ -247,6 +247,7 @@
 		                <div class="links">
                             <a href="#moon" data-menuanchor="moon">Moon</a>
                             <a href="#drupal" data-menuanchor="drupal">Drupal</a>
+                            <a href="#skate" data-menuanchor="skate">Skatepark</a>
 		                </div>
 		            </div>
 		        </div>
