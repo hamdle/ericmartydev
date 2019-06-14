@@ -253,7 +253,7 @@
 						<div>
                             <h2><a href="http://champstudio.com" target="_blank">Champ <b>Studio</b></a><i>#pdx</i></h2>
                             <img src="imgs/champ-screen.png" alt="Champ Studio Home Page" />
-                            <p>HTML / CSS / Javascript | WordPress Plugin | <b class="co-yellow">Banana Phone</b> | Design</p>
+                            <p>WordPress Developer and Co-owner of Champ Studio.<br />Designer of the classic <b class="co-yellow">Banana Phone</b> logo</p>
                         </div>
 					</div>
 				</div>
@@ -261,7 +261,7 @@
 					<div class="flex-center position-ref full-height bg-blue">
                         <div>
     						<img src="imgs/wordpress-plugin.png" alt="Champ Studio Custom Plugin" />
-                            <p>Plugin development in <b>PHP</b> using WordPress API</p>
+                            <p>I developed a custom SVG animation plugin to display the logo.<br />Written in <b>PHP</b> using WordPress APIs.</p>
                         </div>
 					</div>
 				</div>
@@ -269,7 +269,7 @@
 					<div class="flex-center position-ref full-height ">
                         <div>
 						  <img src="imgs/champ-menu-screen.png" alt="Champ Studio Menu" />
-                          <p>Layout and responsive <b>design</b></p>
+                          <p>Responsive, bold, and colorful design.</p>
                         </div>
 					</div>
 				</div>
@@ -281,7 +281,7 @@
                             <div class="rhino-1">
                                 <h2><a href="https://www.rhinonetworks.com" target="_blank">Rhino <b>Networks</b></a><i>#avl</i></h2>
                                 <img src="imgs/rhino-screen.png" alt="Rhino Networks Home Page" />
-                                <p>Drupal 7 module programming | Product feed | Logo design</p>
+                                <p>I was a lead developer of Rhino's Drupal 7 Commerce site.<br />I also designed the logo.</p>
                             </div>
 						</div>
 					</div>
@@ -289,7 +289,7 @@
 						<div class="flex-center position-ref full-height bg-orange">
                             <div class="rhino-2">
 							     <img src="imgs/drupal-code.png" alt="Drupal module programming" />
-                                 <p>Custom built Drupal 7 Invoice module for Drupal Commerce</p>
+                                 <p>I wrote a custom Drupal 7 Invoice module<br />that integrated into Drupal Commerce.</p>
                             </div>
 						</div>
 					</div>
@@ -300,7 +300,7 @@
 					<div class="ciaccio-1">
                         <h2><a href="http://elisabethciaccio.com" target="_blank">Elisabeth <b>Ciaccio</b></a><i>#nyc</i></h2>
                         <img src="imgs/ciaccio-screen.png" alt="Elisabeth Ciaccio Image Gallery" />
-                        <p>Responsive gallery | Theme design | WordPress</p>
+                        <p>Build and deployed WordPress portfolio with NYC Photographer,<br />Elisabeth Ciaccio.</p>
                     </div>
 				</div>
 			</div>
@@ -311,7 +311,7 @@
 						<div>
                             <h2><a href="https://reactdemo.ericmarty.co" target="_blank">React <b>Demo</b></a><i>#reactjs</i></h2>
                             <img src="imgs/react-demo.png" alt="React" />
-                            <p style="margin-top: 15px;">React Course by Wes Bos | My Workthrough on <a href="https://github.com/hamdle/react-catch-of-the-day" target="_blank">GitHub</a> | <a href="https://reactdemo.ericmarty.co" target="_blank">My Demo</a></p>
+                            <p style="margin-top: 15px;">My Workthrough of an advanced React project. View on <a href="https://github.com/hamdle/react-catch-of-the-day" target="_blank">GitHub</a> | <a href="https://reactdemo.ericmarty.co" target="_blank">Live Demo</a></p>
                         </div>
 					</div>
 				</div>
@@ -319,7 +319,7 @@
 					<div class="flex-center position-ref full-height bg-blue">
                         <div>
     						<img src="imgs/react-demo-code.png" alt="React Demo Code" />
-                            <p style="margin-top: 15px;">Using React Router & Create-react-app</p>
+                            <p style="margin-top: 15px;">Build with React and React Router. Project created using Facebook's <a href="https://github.com/facebook/create-react-app" target="_blank">create-react-app</a>.</p>
                         </div>
 					</div>
                 </div>

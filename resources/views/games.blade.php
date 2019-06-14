@@ -263,7 +263,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Skater XL <b>level mod</b></a><i>#blender</i></h2>
                             <img src="imgs/skater-xl-title.png" alt="Skater XL Custom Menu" />
-                            <p style="margin-top: 30px;">Custom level design in Blender | Level built in Unity</p>
+                            <p style="margin-top: 30px;">Using Unity and Blender I created a level mod for the game Skate XL</p>
                         </div>
 					</div>
                 </div>
@@ -271,7 +271,7 @@
 					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                             <img src="imgs/blender-model.png" alt="Custom park built in Blender" />
-                            <p style="margin-top: 30px;">Modeled in Blender 2.8</p>
+                            <p style="margin-top: 30px;">I created the full skatepark modeled in <a href="https://www.blender.org/2-8/" target="_blank">Blender 2.8</a>.</p>
                         </div>
 					</div>
 				</div>
@@ -279,7 +279,7 @@
 					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/cycles_render.png" alt="Blender cylces render" />
-                        <p style="margin-top: 30px;">Rendered skatepark using Blender cycles renderer</p>
+                        <p style="margin-top: 30px;">This is the skatepark rendered with some textures applied and using the <a href="https://www.cycles-renderer.org/" target="_blank">Cycles renderer</a>.</p>
                         </div>
 					</div>
 				</div>
@@ -287,15 +287,7 @@
 					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/unity-project.png" alt="Unity skate park project" />
-                        <p style="margin-top: 30px;">mod park built in Unity</p>
-                        </div>
-					</div>
-				</div>
-                <div class="slide">
-					<div class="flex-center position-ref full-height bg-skater-pink">
-                        <div>
-                        <img src="imgs/screenshot_10.png" alt="Level mod 1" />
-                        <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 1</p>
+                        <p style="margin-top: 30px;">This is my model imported into the Unity project<br />using the new HDRP, High Definition Render Pipeline.</p>
                         </div>
 					</div>
 				</div>
@@ -303,15 +295,7 @@
 					<div class="flex-center position-ref full-height bg-skater-pink">
                         <div>
                         <img src="imgs/screenshot_11.png" alt="Level mod 2" />
-                        <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 2</p>
-                        </div>
-					</div>
-				</div>
-                <div class="slide">
-					<div class="flex-center position-ref full-height bg-skater-pink">
-                        <div>
-                        <img src="imgs/screenshot_12.png" alt="Level mod 3" />
-                        <p style="margin-top: 30px;">Skater XL level mod in-game screenshot 3</p>
+                        <p style="margin-top: 30px;">My mod course running in the Skater XL game.</p>
                         </div>
 					</div>
 				</div>
@@ -323,7 +307,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="http://moonreporter.com" target="_blank">Pete Cactus: <b>Moon Reporter</b></a><i>#unity</i></h2>
                             <img src="imgs/moon-start-screen.png" alt="Pete Cactus Moon Reporter Start Menu" style="margin-bottom: 35px;border-radius: 3px;" />
-                            <p>Unity | C# | Development & Design | <a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
+                            <p>My first Unity game featuring lots of design work and scripted in C#.<br /><a href="https://github.com/hamdle/Moon_Journalist" target="_blank">Github</a> | <a href="http://moonreporter.com/play" target="_blank">Download</a></p>
                         </div>
 					</div>
 				</div>
@@ -331,7 +315,7 @@
 					<div class="flex-center position-ref full-height bg-pete-green">
                         <div>
                             <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ipo00gfeeAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
-    						<p style="margin-top: 30px;">Full game playthrough on Youtube</p>
+    						<p style="margin-top: 30px;">Here's a video of a full playthrough of the game<br />if you want to skip around and take a look.</p>
                         </div>
 					</div>
 				</div>
@@ -339,7 +323,7 @@
 					<div class="flex-center position-ref full-height bg-dark-gray">
                         <div>
 						  <img class="no-shadow" src="imgs/moon-screen.png" alt="Champ Studio Menu" />
-                          <p>Super Fast Website | Flat-file CMS <b>Grav</b> | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
+                          <p>I created a super fast website for the game using <b>Grav</b>,<br />a flat-file PHP-based CMS. | <a href="https://moonreporter.com" target="_blank">Moonreporter.com</a></p>
                         </div>
 					</div>
 				</div>
@@ -351,7 +335,7 @@
 						<div>
                             <h2 style="margin-bottom: 0.6em;"><a href="#" target="_blank">Drupal <b>Jump</b></a><i>#godot</i></h2>
                             <img src="imgs/drupal-jump-gameplay-dev.png" alt="Drupal Jump Menu Screen" />
-                            <p style="margin-top: 30px;">Godot 3 | GDScript / Python | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a> | Coming Soon</p>
+                            <p style="margin-top: 30px;">My first Godot game. This game insired my first game jam game.<br />Scripted in Python-like GDScript. | <a href="https://github.com/hamdle/Drupal_Quest" target="_blank">GitHub</a></p>
                         </div>
 					</div>
                 </div>
@@ -361,7 +345,7 @@
                         <span><iframe width="560" height="315" src="https://www.youtube.com/embed/UK71N5tBvw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
                             
                         
-                        <p style="margin-top: 30px;">Pixel art mixed with modern web design | Working concept</p>
+                        <p style="margin-top: 30px;">I tried to combine pixel art with modern web design.<br />This is my working concept.</p>
                         </div>
 					</div>
 				</div>
@@ -369,7 +353,7 @@
 					<div class="flex-center position-ref full-height bg-drupal-blue">
                         <div>
                         <img src="imgs/drupal-jump-char-dev.png" alt="Drupal Jump Menu Screen" />
-                        <p style="margin-top: 30px;">Character select menu | Working concept</p>
+                        <p style="margin-top: 30px;">I developed multiple demos to get core gameplay mechanics working.<br /><a href="https://github.com/hamdle/grayscale-shader-godot-3" target="_blank">grayscale shader</a> | <a href="https://github.com/hamdle/Lemniscate-of-Bernoulli-Godot" target="_blank">Bernoulli</a> (figure 8 algorithm for flying enemy)</p>
                         </div>
 					</div>
 				</div>
