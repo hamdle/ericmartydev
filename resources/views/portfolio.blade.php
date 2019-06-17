@@ -261,7 +261,7 @@
 					<div class="flex-center position-ref full-height bg-blue">
                         <div>
     						<img src="imgs/wordpress-plugin.png" alt="Champ Studio Custom Plugin" />
-                            <p>I developed a custom SVG animation plugin to display the logo.<br />Written in <b>PHP</b> using WordPress APIs.</p>
+                            <p>I developed a custom SVG animation plugin to display the logo.<br />Written in <b>PHP</b> using WordPress API</p>
                         </div>
 					</div>
 				</div>
@@ -269,7 +269,7 @@
 					<div class="flex-center position-ref full-height ">
                         <div>
 						  <img src="imgs/champ-menu-screen.png" alt="Champ Studio Menu" />
-                          <p>Responsive, bold, and colorful design.</p>
+                          <p>Responsive, bold, and colorful design</p>
                         </div>
 					</div>
 				</div>
@@ -281,7 +281,7 @@
                             <div class="rhino-1">
                                 <h2><a href="https://www.rhinonetworks.com" target="_blank">Rhino <b>Networks</b></a><i>#avl</i></h2>
                                 <img src="imgs/rhino-screen.png" alt="Rhino Networks Home Page" />
-                                <p>I was a lead developer of Rhino's Drupal 7 Commerce site.<br />I also designed the logo.</p>
+                                <p>I was a lead developer of Rhino's Drupal 7 Commerce site.<br />I also designed the logo</p>
                             </div>
 						</div>
 					</div>
@@ -289,7 +289,7 @@
 						<div class="flex-center position-ref full-height bg-orange">
                             <div class="rhino-2">
 							     <img src="imgs/drupal-code.png" alt="Drupal module programming" />
-                                 <p>I wrote a custom Drupal 7 Invoice module<br />that integrated into Drupal Commerce.</p>
+                                 <p>I wrote a custom Drupal 7 Invoice module<br />that integrated into Drupal Commerce</p>
                             </div>
 						</div>
 					</div>
@@ -300,7 +300,7 @@
 					<div class="ciaccio-1">
                         <h2><a href="http://elisabethciaccio.com" target="_blank">Elisabeth <b>Ciaccio</b></a><i>#nyc</i></h2>
                         <img src="imgs/ciaccio-screen.png" alt="Elisabeth Ciaccio Image Gallery" />
-                        <p>Build and deployed WordPress portfolio with NYC Photographer,<br />Elisabeth Ciaccio.</p>
+                        <p>Build and deployed WordPress portfolio<br />with NYC photographer Elisabeth Ciaccio</p>
                     </div>
 				</div>
 			</div>
@@ -311,7 +311,7 @@
 						<div>
                             <h2><a href="https://reactdemo.ericmarty.co" target="_blank">React <b>Demo</b></a><i>#reactjs</i></h2>
                             <img src="imgs/react-demo.png" alt="React" />
-                            <p style="margin-top: 15px;">My Workthrough of an advanced React project. View on <a href="https://github.com/hamdle/react-catch-of-the-day" target="_blank">GitHub</a> | <a href="https://reactdemo.ericmarty.co" target="_blank">Live Demo</a></p>
+                            <p style="margin-top: 15px;">My Workthrough of an advanced React project.<br />View on <a href="https://github.com/hamdle/react-catch-of-the-day" target="_blank">GitHub</a> | <a href="https://reactdemo.ericmarty.co" target="_blank">Live Demo</a></p>
                         </div>
 					</div>
 				</div>
@@ -319,7 +319,7 @@
 					<div class="flex-center position-ref full-height bg-blue">
                         <div>
     						<img src="imgs/react-demo-code.png" alt="React Demo Code" />
-                            <p style="margin-top: 15px;">Build with React and React Router. Project created using Facebook's <a href="https://github.com/facebook/create-react-app" target="_blank">create-react-app</a>.</p>
+                            <p style="margin-top: 15px;">Build with React and React Router.<br />Project created using Facebook's <a href="https://github.com/facebook/create-react-app" target="_blank">create-react-app</a></p>
                         </div>
 					</div>
                 </div>
